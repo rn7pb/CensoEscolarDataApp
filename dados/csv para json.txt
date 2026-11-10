@@ -1,4 +1,7 @@
-﻿CSVs do arquivo de 2025:
+﻿CSVs dos arquivos de 2025 necessários:
 
 Tabela_Escola_2025_V2.csv
 Tabela_Matricula_2025_V2.csv
+
+
+codigo: python app.py "dados\Tabela_Escola_2025_V2.csv" "dados\Tabela_Matricula_2025_V2.csv" "dados\instituicoes_pb_2025.json"
