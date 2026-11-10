@@ -1,0 +1,4 @@
+﻿CSVs do arquivo de 2025:
+
+Tabela_Escola_2025_V2.csv
+Tabela_Matricula_2025_V2.csv

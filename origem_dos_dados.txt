@@ -1,0 +1,22 @@
+﻿origem dos dados
+
+Arquivo recebido: microdados_censo_escolar_2025_v2.rar
+SHA-256 do RAR: be8893fb1c0d294b9c697be935e99d81976eba28dc994dfdb0ddc2d04cfbcf88
+
+Tabela_Escola_2025_V2.csv
+MD5: 7b0d5882b39619f138fc01ed7abea9b0
+SHA-256: f737d25dc5e80879e08f868d06d55f2bc1178cbb893dc14589a2123151f5b523
+
+Tabela_Matricula_2025_V2.csv
+MD5: e2d61b36f4838284cc4516f6f9793804
+SHA-256: 8669605094c7ea797a33cbec8ef1490c57f094f2dc6d8bbb1964a6522adb57f0
+
+Os MD5 coincidem com o arquivo md5_microdados_ed_basica_2025.txt do próprio pacote.
+Tabelas nacionais: 214.192 escolas e 178.766 registros de instituições em matrículas.
+Recorte: sg_uf PB, co_uf 25 e nu_ano_censo 2025. Sem filtro adicional.
+Saída: 5.641 instituições; 4.624 com registro em matrículas; 1.017 sem esse registro.
+Cruzamento: co_entidade. Nenhum código de matrículas de PB ficou fora da tabela de escolas.
+Leitura dos arquivos recebidos: delimitador ponto e vírgula, codificação Latin-1.
+Quatro campos geográficos ausentes na origem, mantidos null: no_mesorregiao, co_mesorregiao, no_microrregiao, co_microrregiao.
+Campos de matrículas de escolas sem registro correspondente: null, sem inferir zero.
+Fonte indicada no enunciado: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
